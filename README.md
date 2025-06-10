@@ -77,4 +77,6 @@
   - 학습 속도는 초당 약 7 에서 11 iter 이며 평가 속도는 약 25 에서 47 iter 이므로 하드웨어 사양 대비 적절한 수준입니다. 
 
 ---
-## 3-4.
+## 3-4. 데이터 재학습 결과
+![result_68165_01](https://github.com/user-attachments/assets/4ee8e6c4-c462-4576-8008-4f5f663efb6c)
+
