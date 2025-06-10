@@ -39,3 +39,4 @@
 | Not my favorite but still good.                   | 1                    |
 | The choreography is amazing!                      | 2                    |
 | ... (총 2,000개의 댓글과 라벨)                     | ...                  |
+## 2-3. 데이터 부가정보
