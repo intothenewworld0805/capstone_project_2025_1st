@@ -1,0 +1,2 @@
+# capstone_project_2025_1st
+Shingu_college_capstone_project_2025_1st
