@@ -42,8 +42,7 @@
 ## 2-3. 데이터 부가정보
 ![Figure_01](https://github.com/user-attachments/assets/07412978-8023-4028-8b79-010d182809b8)
 # 3. 데이터 학습
-### 토큰화 결과 샘플
-
+## 3-1. 토큰화 결과 샘플
 **1번째 데이터**  
 데이터 :  
 This is not a "song" , This is an "anthem"
