@@ -40,3 +40,6 @@
 | The choreography is amazing!                      | 2                    |
 | ... (총 2,000개의 댓글과 라벨)                     | ...                  |
 ## 2-3. 데이터 부가정보
+![Figure_01](https://github.com/user-attachments/assets/07412978-8023-4028-8b79-010d182809b8)
+# 3. 데이터 학습
+
