@@ -30,3 +30,12 @@
 |-----------|----------------------------------------|
 | comment   | 유튜브 댓글 내용 (영어로 된 댓글 텍스트)  |
 | label     | 수동 감성 라벨 (0: 부정, 1: 중립, 2: 긍정) |
+#### 예시 (5개 댓글)
+| **comment (댓글 내용)**                           | **label (감성 라벨)** |
+|--------------------------------------------------|----------------------|
+| This is not a "song", This is an "anthem"        | 2                    |
+| I love this song!                                 | 2                    |
+| The video quality is poor.                        | 0                    |
+| Not my favorite but still good.                   | 1                    |
+| The choreography is amazing!                      | 2                    |
+| ... (총 2,000개의 댓글과 라벨)                     | ...                  |
