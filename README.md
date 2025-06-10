@@ -74,3 +74,19 @@ Never too old!
 [1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 
 ## 3-2. 학습 결과
+Training Epoch 1: 100%|██████████| 200/200 [00:17<00:00, 11.16it/s, loss=0.619]
+Evalucation Train Epoch 1: 100%|██████████| 200/200 [00:04<00:00, 47.18it/s]
+Evaluation Validation Epoch 1: 100%|██████████| 50/50 [00:01<00:00, 46.64it/s]
+Training Epoch 2: 100%|██████████| 200/200 [00:17<00:00, 11.14it/s, loss=0.00719]
+Evalucation Train Epoch 2: 100%|██████████| 200/200 [00:04<00:00, 46.58it/s]
+Evaluation Validation Epoch 2: 100%|██████████| 50/50 [00:01<00:00, 47.58it/s]
+Training Epoch 3: 100%|██████████| 200/200 [00:17<00:00, 11.39it/s, loss=0.00782]
+Evalucation Train Epoch 3: 100%|██████████| 200/200 [00:04<00:00, 46.49it/s]
+Evaluation Validation Epoch 3: 100%|██████████| 50/50 [00:01<00:00, 43.09it/s]
+Training Epoch 4: 100%|██████████| 200/200 [00:28<00:00,  7.07it/s, loss=0.741]
+Evalucation Train Epoch 4: 100%|██████████| 200/200 [00:07<00:00, 26.52it/s]
+Evaluation Validation Epoch 4: 100%|██████████| 50/50 [00:01<00:00, 25.91it/s]
+Epoch 1: Train loss: 73355.7421, Trian Accuracy: 0.8775, Validation Accuracy: 0.8525
+Epoch 2: Train loss: 0.7837, Trian Accuracy: 0.8806, Validation Accuracy: 0.8525
+Epoch 3: Train loss: 0.4041, Trian Accuracy: 0.9006, Validation Accuracy: 0.7625
+Epoch 4: Train loss: 0.3994, Trian Accuracy: 0.9094, Validation Accuracy: 0.8525
