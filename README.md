@@ -48,7 +48,6 @@
 ## 3-2. 학습 결과
 ![result_2000_01](https://github.com/user-attachments/assets/442fb8bd-6c6a-47f5-88d7-6170120a2ee7)
 ## 3-3. 학습 결과 분석
-# 학습 결과 분석
 ---
 
 **학습 및 검증 성능**
